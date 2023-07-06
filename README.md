@@ -1,2 +1,2 @@
-# Data-Structures-Algorithms
-Codes for DSA Problems
+All Codes
+
